@@ -1,0 +1,10 @@
+body {margin:0;font-family:Arial;background:#f4f4f4}
+header {background:#0066cc;color:white;padding:15px;text-align:center}
+nav a {color:white;margin:10px;text-decoration:none;font-weight:bold}
+.slider img {width:100%;display:none}
+.content {background:white;margin:20px;padding:30px;border-radius:10px}
+.btn {background:#28a745;color:white;padding:10px 20px;border:none;border-radius:5px}
+.card {background:#e3f2fd;padding:20px;margin:10px;border-radius:8px}
+.gallery img {margin:10px;border-radius:10px}
+footer {background:#0066cc;color:white;text-align:center;padding:10px}
+input,textarea {width:80%;padding:8px;margin:5px}
